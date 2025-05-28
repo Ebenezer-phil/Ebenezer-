@@ -1,0 +1,12 @@
+.rd{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0px;
+    color: white;
+}
+.container{
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(51, 51, 103);
+    border: none;
+}

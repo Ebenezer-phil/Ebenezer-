@@ -1,0 +1,27 @@
+
+body{
+     background-image:url(../image/mkt1.jpg);
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+form{
+    background-color: blue;
+    width:450px ;
+    margin: 40px;
+    padding:20px 30px ;
+    border-color: black;
+    border-radius: 20px;
+}
+
+input{
+     width: 80%;
+    margin: 10px auto;
+    padding: 15px;
+    text-align: center;
+    justify-items: center;
+}
+
+
+  
