@@ -1,0 +1,16 @@
+body{
+    background-image: url(../image/Pyramid-of-Khafre-Giza-Egypt.jpg)
+}
+.li{
+    display: inline-block;
+    margin: 40px;
+}
+.header{
+    width: 70%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    justify-content: space-between;
+
+}
